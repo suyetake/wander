@@ -9,7 +9,7 @@ Reza Mamdani
 Matt Michnal
 Nyla Logsden-Sackett
 
-Features:
+Features: Now a local repo to practice upon - no longer forked to classroom private repo.
 
 TBD
 Usage:
